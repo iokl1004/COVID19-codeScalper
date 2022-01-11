@@ -13,3 +13,21 @@ Uncaught TypeError: Cannot read properties of undefined (reading 'map')
 에러가 발생한 사람들도 꽤 있었으며 공통점은 3달이내에 댓글을 달았던 사람들이다.
 영상을 계속 정주행을 하고 해봐도 안되었으며, 비록 프로젝트는 성공하지 못하였지만 리액트에 대해 좀더 알게되어 다행이다.
 처음으로 postman이라는 API를 테스트하는 플랫폼도 사용해봤는데 신기하였다.
+
+------------------------------------------------------------------------------------------------------------------------------------
+에러1.Uncaught TypeError: Cannot read properties of undefined (reading 'map')
+
+에러2. The above error occurred in the <ForwardRef(ChartComponent)> component:
+
+    at ChartComponent (http://localhost:3000/static/js/bundle.js:27356:5)
+    at div
+    at div
+    at section
+    at Contents (http://localhost:3000/static/js/bundle.js:172:92)
+    at div
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+
+에러3. Warning: Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.
