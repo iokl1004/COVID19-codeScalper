@@ -5,3 +5,11 @@ Edit : VS Code
 
 2022.01.07(금) 시작
 https://youtu.be/DtLhiMxgsm0?t=1290
+
+2022.01.11(화) 종료
+유튜브에서 하라는대로 똑같이하고, 실행해봤는데도 작동이 안된다... 나랑같이
+Uncaught TypeError: Cannot read properties of undefined (reading 'map')
+
+에러가 발생한 사람들도 꽤 있었으며 공통점은 3달이내에 댓글을 달았던 사람들이다.
+영상을 계속 정주행을 하고 해봐도 안되었으며, 비록 프로젝트는 성공하지 못하였지만 리액트에 대해 좀더 알게되어 다행이다.
+처음으로 postman이라는 API를 테스트하는 플랫폼도 사용해봤는데 신기하였다.
